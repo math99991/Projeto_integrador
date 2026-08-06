@@ -1,4 +1,4 @@
-![Cachorrinho](cachorro-cachorrinho.gif)
+![Cachorrinho](https://media.tenor.com/j4INNtAxkEIAAAAM/cachorro-cachorrinho.gif)
 
 
 
@@ -7,4 +7,4 @@
 
 
 
-#GIF2
+# GIF
